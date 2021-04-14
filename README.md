@@ -10,14 +10,7 @@ a significant impact on student performance as well as on their
 psychological health.
 ## Dataset 
 Similar to the one used in https://www.sciencedirect.com/science/article/pii/S2352340920309987, a Likert-type questionnaire
-was made in the template of a google form (https://docs.google.com/forms/d/e/1FAIpQLSdWs_oPDMZyt4LVbXkCQVMJ-3Q31n1cRp5_cJDW0DKlDK98cw/viewform)
-and distributed to undergraduate students through social
-media, starting from March 2021. The form
-was composed of 5 sections, where each section asked students
-questions related to their use of e-learning tools and its impact
-on their education. The first section aimed at gathering the student’s
-demographic information such as gender, level/year, age
-and CGPA (+90%:’4’, 80-89%:’3’, 70-79%:’2’, 60-69%:’1’),
+was made in the template of a google form (https://docs.google.com/forms/d/e/1FAIpQLSdWs_oPDMZyt4LVbXkCQVMJ-3Q31n1cRp5_cJDW0DKlDK98cw/viewform) and distributed to undergraduate students through social media, starting from March 2021. The form was composed of 5 sections, where each section asked students questions related to their use of e-learning tools and its impact on their education. The first section aimed at gathering the student’s demographic information such as gender, level/year, age and CGPA (+90%:’4’, 80-89%:’3’, 70-79%:’2’, 60-69%:’1’),
 which was used to judge the academic performance of the
 student. The second section asked students about the time
 they spent using online learning tools (mobiles, tablets and
