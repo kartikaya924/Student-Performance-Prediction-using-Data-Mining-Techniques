@@ -36,6 +36,7 @@ performance. This was later added to our primary dataset.
 
 
 ## Data Mining Techniques used 
+
 1.Decision Tree -
 Due to its lesser complexity and simple architecture, decision
 trees are widely used in EDM. It consists
@@ -50,15 +51,13 @@ using bootstrapping, random subsets of features and average
 voting. It is more robust than decision trees and lesser prone
 to overfitting.
 
-3. K-nearest neighbors -
-It determines the class of the data point through a majority
+3. K-nearest neighbors - It determines the class of the data point through a majority
 voting principle. It means that a class label can assigned to
 a data point based on it’s distance to it’s nearest neighbors.
 Its relatively lesser computation time compared to other classification
 techniques and clarity makes it very useful in EDM.
 
-4. Support Vector Machine
-It is generally used for smaller datasets and hence perform
+4. Support Vector Machine- It is generally used for smaller datasets and hence perform
 relatively faster. In this technique a hyper plane is drawn
 which helps to separate two or more different classes. The
 decision boundary or Hyperplane is estimated by maximizing
