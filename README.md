@@ -37,7 +37,7 @@ performance. This was later added to our primary dataset.
 
 ## Data Mining Techniques used 
 
-1.Decision Tree -
+1. Decision Tree -
 Due to its lesser complexity and simple architecture, decision
 trees are widely used in EDM. It consists
 of nodes and leaves where data is continuously split in accordance
@@ -45,7 +45,7 @@ with certain parameters. Another advantage of decision
 tree is that it requires lesser time for data preparation and is
 easy to interpret.
 
-2.Random Forests - They on the other hand perform classification
+2. Random Forests - They on the other hand perform classification
 by constructing a number of decision trees at training time
 using bootstrapping, random subsets of features and average
 voting. It is more robust than decision trees and lesser prone
