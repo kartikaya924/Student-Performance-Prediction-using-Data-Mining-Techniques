@@ -36,27 +36,28 @@ performance. This was later added to our primary dataset.
 
 
 ## Data Mining Techniques used 
-1.Decision Tree and Random Forests -
+1.Decision Tree -
 Due to its lesser complexity and simple architecture, decision
 trees are widely used in EDM. It consists
 of nodes and leaves where data is continuously split in accordance
 with certain parameters. Another advantage of decision
 tree is that it requires lesser time for data preparation and is
 easy to interpret.
-Random Forests on the other hand perform classification
+
+2.Random Forests - They on the other hand perform classification
 by constructing a number of decision trees at training time
 using bootstrapping, random subsets of features and average
 voting. It is more robust than decision trees and lesser prone
 to overfitting.
 
-2. K-nearest neighbors -
+3. K-nearest neighbors -
 It determines the class of the data point through a majority
 voting principle. It means that a class label can assigned to
 a data point based on it’s distance to it’s nearest neighbors.
 Its relatively lesser computation time compared to other classification
 techniques and clarity makes it very useful in EDM.
 
-3. Support Vector Machine
+4. Support Vector Machine
 It is generally used for smaller datasets and hence perform
 relatively faster. In this technique a hyper plane is drawn
 which helps to separate two or more different classes. The
