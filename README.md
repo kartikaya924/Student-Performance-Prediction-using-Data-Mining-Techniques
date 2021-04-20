@@ -34,6 +34,10 @@ class. Due to it’s shorter computation time it’s often used to
 predict student performance and in other EDM
 techniques.
 
-
+5. ANN - It is a biologically inspired programming method that is a
+popular EDM technique. It is a collections of neurons where
+each node is connected with one another via links. Each link
+has a certain weight associated to it which determines the
+influence of one node over another.
 
 
