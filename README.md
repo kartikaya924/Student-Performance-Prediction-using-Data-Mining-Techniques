@@ -40,4 +40,5 @@ each node is connected with one another via links. Each link
 has a certain weight associated to it which determines the
 influence of one node over another.
 
-
+Link to blog : 
+https://towardsdatascience.com/evaluation-and-prediction-of-students-academic-performance-during-covid-19-40bb2b90141b
